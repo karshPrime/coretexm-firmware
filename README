@@ -1,0 +1,6 @@
+Coretex-M Firmware
+====================
+
+Following the Bare Metal Programming Series by Low Byte Productions, to write a
+firmware for STM32 Coretex-M.
+
